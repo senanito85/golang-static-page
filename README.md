@@ -1,2 +1,2 @@
 # golang-static-page
-somple golang for serving static html file
+Sample Golang web app for serving static html files
